@@ -41,7 +41,8 @@
 4、ESLint代码格式规范；
 5、clean code js  函数及方法使用规范；
 6、react 组件化规范；
-7、有状态无状态组件分类规范。
+7、有状态无状态组件分类规范；
+8、Google HTML/CSS Style Guide。
 技术学习来源
 github、 Stack Overflow 、google developers、facebook developers，
 工作经历
@@ -49,7 +50,7 @@ github、 Stack Overflow 、google developers、facebook developers，
 项目经验
 项目一、洛阳市中小学智慧课堂平台、洛阳市爱学堂第二期项目
 开发工具：WebStorm
-项目描述：洛阳市中小学智慧课堂平台、洛阳市爱学堂第二期项目。洛阳爱学堂是为了更加符合洛阳地区教育学习而研发的。
+项目描述：洛阳市中小学智慧课堂平台、洛阳市爱学堂第二期项目。洛阳爱学堂是为了更加符合洛阳地区教育学习而研发的项目。
 责任描述： 
 1、负责单页面web及redux数据流设计及应用；
 2、使用Leancloud编写后台数据； 
