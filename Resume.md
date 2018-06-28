@@ -11,26 +11,26 @@
 专业：软件工程                                                            
  学历：本科
 技能特长
-1.、熟练掌握基于 React 的 Web APP  解决方案应用与实践；
-.2、熟练掌握基于 React Native 的 NativeAPP 开发技术框架应用与研究；
-3、.熟练掌握基于 Redux 数据架构的架构设计与应用；
-4、.熟练掌握dva基于 redux 、redux-saga 和 react-router 的轻量级前端框架；
+1、熟练掌握基于 React 的 Web APP  解决方案应用与实践；
+2、熟练掌握基于 React Native 的 NativeAPP 开发技术框架应用与研究；
+3、熟练掌握基于 Redux 数据架构的架构设计与应用；
+4、熟练掌握dva基于 redux 、redux-saga 和 react-router 的轻量级前端框架；
 5、熟练掌握node.js和npm、yarn.；
-6、.熟练掌握基于云计算概念的数据通讯方式；
-7、.熟练掌握敏捷开发模式scrum的软件工程开发理念应用；
-8、.熟练掌握基于YouTrack的等技术和团队协作开发工具；
+6、熟练掌握基于云计算概念的数据通讯方式；
+7、熟练掌握敏捷开发模式scrum的软件工程开发理念应用；
+8、熟练掌握基于YouTrack的等技术和团队协作开发工具；
 9、熟练掌握基于flow.js的代码格式规范；
-10、.熟练掌握基于standard.js的代码格式规范；
-11、.熟练掌握基于ESLint的代码格式规范；
-12、.熟练掌握Git 版本控制与分支管理工具的应用；
-13、.熟练掌握Ant Design 基于 React 的中后台管理控制台的脚手架；
-14、.熟练掌握Ant Design Mobile 基于 React Native 的脚手架；
+10、熟练掌握基于standard.js的代码格式规范；
+11、熟练掌握基于ESLint的代码格式规范；
+12、熟练掌握Git 版本控制与分支管理工具的应用；
+13、熟练掌握Ant Design 基于 React 的中后台管理控制台的脚手架；
+14、熟练掌握Ant Design Mobile 基于 React Native 的脚手架；
 15、熟练掌握element；
-16、 .熟练掌握Flux用于构建客户端Web应用程序的系统架构；
+16、熟练掌握Flux用于构建客户端Web应用程序的系统架构；
 17、熟练掌握babel；
 18、熟练掌握webpack；
-19、.熟练掌握Bootstrap前端框架；
-20、 熟练掌握基于 ECMAScript 2017 语法的 JavaScript的语法应用；
+19、熟练掌握Bootstrap前端框架；
+20、熟练掌握基于 ECMAScript 2017 语法的 JavaScript的语法应用；
 21、熟练掌握DIV+CSS布局的HTML代码编写，熟练手写符合W3C标准的代码，能够根据交互原型和UI设计图完整制作出网页；
 22、熟练掌握Javascript、css3、Bootstrap和html5；
 23、.熟练应用dom、xml、json等相关技术。
@@ -44,7 +44,7 @@
 7、有状态无状态组件分类规范；
 8、Google HTML/CSS Style Guide。
 技术学习来源
-github、 Stack Overflow 、google developers、facebook developers，
+github、SegmentFault、 Stack Overflow 、google developers、facebook developers、twitter
 工作经历
  （2017年07月-2018年06月）   洛阳师范学院网络中心                           
 项目经验
